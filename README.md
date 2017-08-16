@@ -6,6 +6,11 @@ Intially professor appoint the student by using LDAP search, office staff valida
 Work flow of the process
 1.
 
-<a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/tree/master/Assets/Uploads/final_screen.png" target="_blank">
-<img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/tree/master/Assets/Uploads/final_screen.png" height="250">
+<a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/tree/master/Assets/Uploads/final_screen.PNG" target="_blank">
+<img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/tree/master/Assets/Uploads/final_screen.PNG" height="250">
+</a>
+
+
+<a href="https://github.com/saikaranbalmuri/officenotes/blob/master/src/main/resources/ONpic1.png" target="_blank">
+<img src="https://github.com/saikaranbalmuri/officenotes/blob/master/src/main/resources/ONpic1.png" height="250">
 </a>
