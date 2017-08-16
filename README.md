@@ -16,8 +16,8 @@ Work flow of the process
 </a>
 
 
-<a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/initiate_appointment.PNG" target="_blank">
-<img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/initiate_appointment.PNG" height="250">
+<a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/intiate_appointment.PNG" target="_blank">
+<img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/intiate_appointment.PNG" height="250">
 </a>
 
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/validate1.PNG" target="_blank">
