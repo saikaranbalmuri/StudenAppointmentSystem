@@ -11,6 +11,4 @@ Work flow of the process
 </a>
 
 
-<a href="https://github.com/saikaranbalmuri/officenotes/blob/master/src/main/resources/ONpic1.png" target="_blank">
-<img src="https://github.com/saikaranbalmuri/officenotes/blob/master/src/main/resources/ONpic1.png" height="250">
-</a>
+
