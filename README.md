@@ -10,5 +10,7 @@ Work flow of the process
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/tree/master/Assets/Uploads/jpg.JPG" height="250">
 </a>
 
-
+<a href="https://github.com/saikaranbalmuri/officenotes/blob/master/src/main/resources/jpg.JPG" target="_blank">
+<img src="https://github.com/saikaranbalmuri/officenotes/blob/master/src/main/resources/jpg.JPG" height="250">
+</a>
 
