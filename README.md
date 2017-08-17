@@ -10,27 +10,34 @@ Screen with multiple appointmnets under multiple professor.
 
 
 Work flow of the system
-Through LDAP search student record will be found and required details must be entered
+
+1.Student record is found through LDAP search.
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/empty_search.PNG" target="_blank">
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/empty_search.PNG" height="250">
 </a>
 
-Scree after the initiation of the appointment is done by the professor
+2.Scree after the initiation of the appointment is done by the professor.
+
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/intiate_appointment.PNG" target="_blank">
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/intiate_appointment.PNG" height="250">
 </a>
 
-Once the professor initiate the appointment, office staff(admin1) will validate the budget details of the deapartment
+3.Once the professor initiate the appointment, office staff(admin1) will validate the budget details of the deapartment.
+
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/validate1.PNG" target="_blank">
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/validate1.PNG" height="250">
 </a>
 
-Office staff(admin2) will validate the student records and generate the appointment letter, mail will be attached and sent to the student
+4.Office staff(admin2) will validate the student records and generate the appointment letter, mail will be attached and sent to the student.
+
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/validate2.PNG" target="_blank">
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/validate2.PNG" height="250">
 </a>
 
+5. Screen after Student sent his response by signing the appointment letter. 
 
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/student_accept.PNG" target="_blank">
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/student_accept.PNG" height="250">
 </a>
+
+
