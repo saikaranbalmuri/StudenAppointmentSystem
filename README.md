@@ -5,7 +5,7 @@ Various roles such as faculty, office staff interact with the system for the stu
 Initially, professor appoints the student by using LDAP search, office staff validate the appointment after checking the departmental constraints, after the acceptance of the student and validations check from the office staff student will be appointed.
 
 
-Screen with multiple appointmnets under multiple professor.
+Screen with multiple appointmnets under multiple professors.
 <a href="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/jpg.JPG" target="_blank">
 <img src="https://github.com/saikaranbalmuri/StudentAppointmentSystem/blob/master/Assets/Uploads/jpg.JPG" height="250">
 </a>
